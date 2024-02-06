@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/PROJECTS/Mechine-Learning-Project-with-ML-flow/mlruns/0/ec1c49fd4e494cfd87e55219fb0a70b7/artifacts
+end_time: 1707204655207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec1c49fd4e494cfd87e55219fb0a70b7
+run_name: burly-dolphin-791
+run_uuid: ec1c49fd4e494cfd87e55219fb0a70b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707204645366
+status: 3
+tags: []
+user_id: NANO

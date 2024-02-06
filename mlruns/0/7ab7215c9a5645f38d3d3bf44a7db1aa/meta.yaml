@@ -1,0 +1,16 @@
+artifact_uri: file:///F:/PROJECTS/Mechine-Learning-Project-with-ML-flow/mlruns/0/7ab7215c9a5645f38d3d3bf44a7db1aa/artifacts
+deleted_time: 1707203654519
+end_time: 1707161385457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7ab7215c9a5645f38d3d3bf44a7db1aa
+run_name: sassy-hound-277
+run_uuid: 7ab7215c9a5645f38d3d3bf44a7db1aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707161385207
+status: 4
+tags: []
+user_id: NANO

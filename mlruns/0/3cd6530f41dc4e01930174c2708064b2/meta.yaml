@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/PROJECTS/Mechine-Learning-Project-with-ML-flow/mlruns/0/3cd6530f41dc4e01930174c2708064b2/artifacts
+end_time: 1707204887601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cd6530f41dc4e01930174c2708064b2
+run_name: caring-sheep-49
+run_uuid: 3cd6530f41dc4e01930174c2708064b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707204870370
+status: 3
+tags: []
+user_id: NANO
